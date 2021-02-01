@@ -44,5 +44,9 @@ https://www.i-ryo.com/entry/2018/11/27/010415#%E4%BD%9C%E6%88%90%E3%81%97%E3%81%
      $ git push origin develop<br>
    * Aにプルリクエストを行う<br><br>
 ## 3. AはBのプルリクエストを承認しマージする<br><br>
-## 4. 
+## 4. Aの作業
+   * ローカルリモートに変更内容を反映（更新）する<br>
+     $ git pull origin master<br>
+   * index.htmlの内容を編集
+   * 1のpushまでの流れを行う<br><br>
    
