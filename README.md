@@ -42,8 +42,12 @@ https://www.i-ryo.com/entry/2018/11/27/010415#%E4%BD%9C%E6%88%90%E3%81%97%E3%81%
    * ファイルの編集(1のファイル作成と同じ流れでコミットまで行う)<br>
    * pushコマンドでリモートブランチにデータを送る<br>
      $ git push origin develop<br>
-   * Aにプルリクエストを行う<br><br>
-## 3. AはBのプルリクエストを承認しマージする<br><br>
+   * Aにプルリクエストを行う
+   * GitHubの画面に戻ると、developのブランチに[Compare&pull request]ボタンが表示されているので、クリックする<br>
+   ![画像pullリクエスト1](https://user-images.githubusercontent.com/78012223/106544448-e641f680-654a-11eb-8a70-c15fd17837f9.png)
+   * リクエスト先が正しいことを確認し、[Create pull request]のボタンをクリックする
+   ![画像pullリクエスト2](https://user-images.githubusercontent.com/78012223/106544659-45a00680-654b-11eb-858b-5dcc13a4967e.png)<br><br>
+## 3. AはBのプルリクエストを承認しマージする
    * pull requestsタブをクリック
    ![pull-requests](https://user-images.githubusercontent.com/78012223/106425669-9100d900-64a7-11eb-8123-3dcc47781fd2.png)
    * マージしたいプルリクエストを選び、[Merge pull request] ボタンをクリック
@@ -51,7 +55,7 @@ https://www.i-ryo.com/entry/2018/11/27/010415#%E4%BD%9C%E6%88%90%E3%81%97%E3%81%
    * [Confirm merge] ボタンをクリック
    ![pullrequest-confirm](https://user-images.githubusercontent.com/78012223/106425607-729add80-64a7-11eb-8729-299439fab3ae.png)
    * マージの確認
-   ![画像pullリクエスト3 ](https://user-images.githubusercontent.com/78012223/106545243-61f07300-654c-11eb-9659-c59c2cd01f6f.png) 
+   ![画像pullリクエスト3 ](https://user-images.githubusercontent.com/78012223/106545243-61f07300-654c-11eb-9659-c59c2cd01f6f.png)<br><br>
 
 ## 4. Aの作業
    * ローカルリモートに変更内容を反映（更新）する<br>
