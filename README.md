@@ -57,7 +57,7 @@ https://www.i-ryo.com/entry/2018/11/27/010415#%E4%BD%9C%E6%88%90%E3%81%97%E3%81%
    * index.htmlの内容を編集
    * 1のpushまでの流れを行う<br><br>
 ## 5. C (or B) の作業
-   <二人で作業する場合(Bの作業)><br>
+   **<二人で作業する場合(Bの作業)><br>**
    * プッシュするための作業環境の準備<br>
    * 新しいリモートを追加する(URLにはクローン元のを使用)<br>
      $ git remote add upstream (URL)<br>
@@ -78,4 +78,4 @@ https://www.i-ryo.com/entry/2018/11/27/010415#%E4%BD%9C%E6%88%90%E3%81%97%E3%81%
      $ git commit -m "メッセージ内容"<br>
    * pushコマンドでリモートブランチにデータを送る<br>
      $ git push origin develop<br>
-   * Aにプルリクエストを送る
+   * Aにプルリクエストを送る<br><br>
