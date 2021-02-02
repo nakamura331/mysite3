@@ -85,3 +85,19 @@ https://www.i-ryo.com/entry/2018/11/27/010415#%E4%BD%9C%E6%88%90%E3%81%97%E3%81%
    * pushコマンドでリモートブランチにデータを送る<br>
      $ git push origin develop<br>
    * Aにプルリクエストを送る<br><br>
+   **<三人の場合>**<br>
+   * 2の作業で行った行ったことをcssとしてCが行う。<br<br>
+## 6.AはCのプルリクエストを承認しマージする
+   * pull requestsタブをクリック
+   ![pull-requests](https://user-images.githubusercontent.com/78012223/106425669-9100d900-64a7-11eb-8123-3dcc47781fd2.png)
+   * マージしたいプルリクエストを選び、[Merge pull request] ボタンをクリック
+   ![merge-button](https://user-images.githubusercontent.com/78012223/106425730-ad9d1100-64a7-11eb-9a04-4f07cec44a8b.png)
+   * [Confirm merge] ボタンをクリック
+   ![pullrequest-confirm](https://user-images.githubusercontent.com/78012223/106425607-729add80-64a7-11eb-8729-299439fab3ae.png)
+   * マージの確認
+   ![画像pullリクエスト3 ](https://user-images.githubusercontent.com/78012223/106545243-61f07300-654c-11eb-9659-c59c2cd01f6f.png)<br><br>
+↓参考にした記事一覧
+・初心者向けGithubへのPullRequest方法 - Qiita 
+https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b
+・Github で Fork してから Pull Request をするまでの流れ | けーこ in サンフランシスコ
+http://kik.xii.jp/archives/179
