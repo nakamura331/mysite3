@@ -44,10 +44,20 @@ https://www.i-ryo.com/entry/2018/11/27/010415#%E4%BD%9C%E6%88%90%E3%81%97%E3%81%
      $ git push origin develop<br>
    * Aにプルリクエストを行う<br><br>
 ## 3. AはBのプルリクエストを承認しマージする<br><br>
+   * pull requestsタブをクリック
+   ![pull-requests](https://user-images.githubusercontent.com/78012223/106425669-9100d900-64a7-11eb-8123-3dcc47781fd2.png)
+   * マージしたいプルリクエストを選び、[Merge pull request] ボタンをクリック
+   ![merge-button](https://user-images.githubusercontent.com/78012223/106425730-ad9d1100-64a7-11eb-9a04-4f07cec44a8b.png)
+   * [Confirm merge] ボタンをクリック
+   ![pullrequest-confirm](https://user-images.githubusercontent.com/78012223/106425607-729add80-64a7-11eb-8729-299439fab3ae.png)
+
 ## 4. Aの作業
    * ローカルリモートに変更内容を反映（更新）する<br>
      $ git pull origin master<br>
    * index.htmlの内容を編集
    * 1のpushまでの流れを行う<br><br>
 ## 5. C (or B) の作業
-
+   <二人で作業する場合(Bの作業)><br>
+   * プッシュするための作業環境の準備<br>
+   * 新しいリモートを追加する(URLにはクローン元のを使用)<br>
+   
