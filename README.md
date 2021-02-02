@@ -60,4 +60,22 @@ https://www.i-ryo.com/entry/2018/11/27/010415#%E4%BD%9C%E6%88%90%E3%81%97%E3%81%
    <二人で作業する場合(Bの作業)><br>
    * プッシュするための作業環境の準備<br>
    * 新しいリモートを追加する(URLにはクローン元のを使用)<br>
-   
+     $ git remote add upstream (URL)<br>
+   * 作業ブランチをmasterに変更<br>
+     $ git checkout master<br>
+   * upsteramからpullしてmasterの最新状態を取得<br>
+     $ git pull upstream master<br>
+   * ローカルのmasterをoriginにpush<br>
+     $ git push origin master<br>
+   * 2の作業で作成したブランチへ移動<br>
+     $ git checkout develop<br>
+   * cssファイルの作成<br>
+   * touchコマンドでcssファイル作成<br>
+     $ touch style.css<br>
+   * viコマンドでcssの編集<br>
+   * 1のファイル作成と同じ流れでcssをコミットする<br>
+     $ git add style.css<br>
+     $ git commit -m "メッセージ内容"<br>
+   * pushコマンドでリモートブランチにデータを送る<br>
+     $ git push origin develop<br>
+   * Aにプルリクエストを送る
