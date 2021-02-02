@@ -50,6 +50,8 @@ https://www.i-ryo.com/entry/2018/11/27/010415#%E4%BD%9C%E6%88%90%E3%81%97%E3%81%
    ![merge-button](https://user-images.githubusercontent.com/78012223/106425730-ad9d1100-64a7-11eb-9a04-4f07cec44a8b.png)
    * [Confirm merge] ボタンをクリック
    ![pullrequest-confirm](https://user-images.githubusercontent.com/78012223/106425607-729add80-64a7-11eb-8729-299439fab3ae.png)
+   * マージの確認
+   ![画像pullリクエスト3 ](https://user-images.githubusercontent.com/78012223/106545243-61f07300-654c-11eb-9659-c59c2cd01f6f.png) 
 
 ## 4. Aの作業
    * ローカルリモートに変更内容を反映（更新）する<br>
