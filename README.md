@@ -34,7 +34,7 @@ https://www.i-ryo.com/entry/2018/11/27/010415#%E4%BD%9C%E6%88%90%E3%81%97%E3%81%
    * クローンするディレクトリへ移動、git cloneコマンドクローン<br>
      $ cd クローンするディレクトリ名<br>
      $ git clone[URL]<br>
-     ※URLはCodeボタンをクリックすると表示されるURL[`https://github.com/クローン元ユーザー名/リポジトリ名.git`]を入力する。
+     ※URLはCodeボタンをクリックすると表示されるURL[`https://github.com/ユーザー名/リポジトリ名.git`]を入力する。
    * クローンしてきたフォルダのディレクトリに移動<br>
      $ cd クローンしてきたフォルダ<br>
    * ブランチを作成し作業ブランチに変更する<br>
@@ -49,4 +49,5 @@ https://www.i-ryo.com/entry/2018/11/27/010415#%E4%BD%9C%E6%88%90%E3%81%97%E3%81%
      $ git pull origin master<br>
    * index.htmlの内容を編集
    * 1のpushまでの流れを行う<br><br>
-   
+## 5. C (or B) の作業
+
