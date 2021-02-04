@@ -99,5 +99,7 @@ https://www.i-ryo.com/entry/2018/11/27/010415#%E4%BD%9C%E6%88%90%E3%81%97%E3%81%
 ↓参考にした記事一覧<br>
 ・初心者向けGithubへのPullRequest方法 - Qiita 
 https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b<br>
-・Github で Fork してから Pull Request をするまでの流れ | けーこ in サンフランシスコ
+・Github で Fork してから Pull Request をするまでの流れ | けーこ in サンフランシスコ<br>
+* ほかのやり方<br>
+https://github.com/yama727yaman/ENSHU
 http://kik.xii.jp/archives/179
